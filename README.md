@@ -10,4 +10,4 @@ _[Name popularity](https://github.com/miens37/pythoncodes/blob/main/python/babyg
 _[Pedestian removing application](https://github.com/miens37/pythoncodes/blob/main/python/stanCodoshop.py))\
  _image proressing\
  _[breakout Game](https://github.com/miens37/pythoncodes/blob/main/python/breakout.py)\
-  _animation & game design\
+  _animation & game design
