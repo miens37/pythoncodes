@@ -6,8 +6,8 @@ watch my [Demo vedios](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
 
 # Codes 
 *[Name popularity](https://github.com/miens37/pythoncodes/blob/main/python/babygraphics.py)\
-   *data structure\
+ *data structure\
 *[Pedestian removing application](https://github.com/miens37/pythoncodes/blob/main/python/stanCodoshop.py)\
-   *image proressing\
+ *image proressing\
 *[breakout Game](https://github.com/miens37/pythoncodes/blob/main/python/breakout.py)\
-   *animation & game design
+ *animation & game design
