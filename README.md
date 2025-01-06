@@ -9,5 +9,5 @@ watch my [Demo vedios](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
   * Data structure
 * [Pedestian removing application](https://github.com/miens37/pythoncodes/blob/main/python/stanCodoshop.py)
   * Image proressing
-* [breakout Game](https://github.com/miens37/pythoncodes/blob/main/python/breakout.py)
+* [Breakout Game](https://github.com/miens37/pythoncodes/blob/main/python/breakout.py)
   * Animation & game design
